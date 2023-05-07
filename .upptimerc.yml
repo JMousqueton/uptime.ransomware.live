@@ -4,13 +4,13 @@ repo: uptime.ransomware.live # The name of this repository
 user-agent: uptime.ransomware.live
 
 sites:
-  - name: ransomware.live : Main site
+  - name: ransomware.live - Main site
     url: https://www.ransomware.live
-  - name: ransomware.live : Posts
+  - name: ransomware.live - Posts
     url: https://posts.ransomware.live
-  - name: ransomware.live : Data
+  - name: ransomware.live - Data
     url: https://data.ransomware.live
-  - name: ransomware.live : Images
+  - name: ransomware.live - Images
     url: https://images.ransomware.live
   - name : Blog Julien Mousqueton
     url: https://julien.io
