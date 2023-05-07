@@ -1,16 +1,21 @@
 # Change these first
 owner: JMousqueton # Your GitHub organization or username, where this repository lives
 repo: uptime.ransomware.live # The name of this repository
+user-agent: uptime.ransomware.live
 
 sites:
-  - name: Main site
+  - name: ransomware.live : Main site
     url: https://www.ransomware.live
-  - name: Posts
+  - name: ransomware.live : Posts
     url: https://posts.ransomware.live
-  - name: Data
+  - name: ransomware.live : Data
     url: https://data.ransomware.live
-  - name: Images
+  - name: ransomware.live : Images
     url: https://images.ransomware.live
+  - name : Blog Julien Mousqueton
+    url: https://julien.io
+  - name : Cyber-news
+    url: https://www.cyber-news.fr
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
