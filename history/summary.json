@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 594,
-    "timeDay": 594,
-    "timeWeek": 594,
-    "timeMonth": 594,
-    "timeYear": 594,
+    "time": 605,
+    "timeDay": 627,
+    "timeWeek": 605,
+    "timeMonth": 605,
+    "timeYear": 605,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 425,
-    "timeDay": 425,
-    "timeWeek": 425,
-    "timeMonth": 425,
-    "timeYear": 425,
+    "time": 385,
+    "timeDay": 305,
+    "timeWeek": 385,
+    "timeMonth": 385,
+    "timeYear": 385,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 695,
-    "timeDay": 695,
-    "timeWeek": 695,
-    "timeMonth": 695,
-    "timeYear": 695,
+    "time": 633,
+    "timeDay": 509,
+    "timeWeek": 633,
+    "timeMonth": 633,
+    "timeYear": 633,
     "dailyMinutesDown": {}
   },
   {
@@ -64,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 607,
-    "timeDay": 607,
-    "timeWeek": 607,
-    "timeMonth": 607,
-    "timeYear": 607,
+    "time": 617,
+    "timeDay": 636,
+    "timeWeek": 617,
+    "timeMonth": 617,
+    "timeYear": 617,
     "dailyMinutesDown": {}
   },
   {
@@ -82,11 +82,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1405,
-    "timeDay": 1405,
-    "timeWeek": 1405,
-    "timeMonth": 1405,
-    "timeYear": 1405,
+    "time": 1414,
+    "timeDay": 1434,
+    "timeWeek": 1414,
+    "timeMonth": 1414,
+    "timeYear": 1414,
     "dailyMinutesDown": {}
   },
   {
@@ -95,18 +95,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.cyber-news.fr.ico",
     "slug": "cyber-news",
     "status": "down",
-    "uptime": "72.00%",
-    "uptimeDay": "72.00%",
-    "uptimeWeek": "72.00%",
-    "uptimeMonth": "72.00%",
-    "uptimeYear": "72.00%",
+    "uptime": "55.51%",
+    "uptimeDay": "47.36%",
+    "uptimeWeek": "55.51%",
+    "uptimeMonth": "55.51%",
+    "uptimeYear": "55.51%",
     "time": 1024,
-    "timeDay": 1024,
+    "timeDay": 896,
     "timeWeek": 1024,
     "timeMonth": 1024,
     "timeYear": 1024,
     "dailyMinutesDown": {
-      "2023-05-08": 368
+      "2023-05-09": 51,
+      "2023-05-08": 707
     }
   }
 ]
