@@ -14,7 +14,7 @@ sites:
     url: https://images.ransomware.live
   - name : Blog Julien Mousqueton
     url: https://julien.io
-  - name : Cyber-news
+  - name : Cyber-News
     url: https://cyber-news.fr
 
 status-website:
