@@ -1,7 +1,7 @@
 url: https://cyber-news.fr
-status: up
-code: 200
-responseTime: 1170
-lastUpdated: 2023-05-15T23:07:00.031Z
+status: down
+code: 502
+responseTime: 701
+lastUpdated: 2023-05-16T08:22:54.972Z
 startTime: Sun May 07 2023 20:27:33 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
