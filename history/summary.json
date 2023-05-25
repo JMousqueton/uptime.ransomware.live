@@ -4,9 +4,9 @@
     "url": "https://www.ransomware.live",
     "icon": "https://icons.duckduckgo.com/ip3/www.ransomware.live.ico",
     "slug": "ransomware-live-main-site",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 488,
     "timeMonth": 522,
     "timeYear": 522,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-05-25": 0
+    }
   },
   {
     "name": "ransomware.live - Posts",
@@ -40,9 +42,9 @@
     "url": "https://data.ransomware.live",
     "icon": "https://icons.duckduckgo.com/ip3/data.ransomware.live.ico",
     "slug": "ransomware-live-data",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,16 +53,18 @@
     "timeWeek": 520,
     "timeMonth": 551,
     "timeYear": 551,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-05-25": 0
+    }
   },
   {
     "name": "ransomware.live - Images",
     "url": "https://images.ransomware.live",
     "icon": "https://icons.duckduckgo.com/ip3/images.ransomware.live.ico",
     "slug": "ransomware-live-images",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -69,7 +73,9 @@
     "timeWeek": 483,
     "timeMonth": 508,
     "timeYear": 508,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-05-25": 0
+    }
   },
   {
     "name": "Blog Julien Mousqueton",
@@ -95,11 +101,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/cyber-news.fr.ico",
     "slug": "cyber-news",
     "status": "up",
-    "uptime": "91.23%",
+    "uptime": "91.49%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "91.23%",
-    "uptimeYear": "91.23%",
+    "uptimeMonth": "91.49%",
+    "uptimeYear": "91.49%",
     "time": 880,
     "timeDay": 1063,
     "timeWeek": 871,
