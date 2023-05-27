@@ -12,6 +12,8 @@ sites:
     url: https://data.ransomware.live
   - name: ransomware.live - Images
     url: https://images.ransomware.live
+  - name: ransomware.live - Chat
+    url: https://chat.ransomware.live
   - name : Blog Julien Mousqueton
     url: https://julien.io
   - name : Cyber-News
