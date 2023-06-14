@@ -125,19 +125,19 @@
     "url": "https://julien.io",
     "icon": "https://icons.duckduckgo.com/ip3/julien.io.ico",
     "slug": "blog-julien-mousqueton",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1263,
-    "timeDay": 1118,
-    "timeWeek": 1171,
-    "timeMonth": 1270,
-    "timeYear": 1263,
+    "status": "up",
+    "uptime": "99.87%",
+    "uptimeDay": "95.17%",
+    "uptimeWeek": "99.31%",
+    "uptimeMonth": "99.84%",
+    "uptimeYear": "99.87%",
+    "time": 1278,
+    "timeDay": 1524,
+    "timeWeek": 1266,
+    "timeMonth": 1289,
+    "timeYear": 1278,
     "dailyMinutesDown": {
-      "2023-06-14": 0
+      "2023-06-14": 70
     }
   },
   {
