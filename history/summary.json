@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.76%",
     "uptimeYear": "99.88%",
-    "time": 543,
-    "timeDay": 373,
-    "timeWeek": 533,
-    "timeMonth": 563,
-    "timeYear": 543,
+    "time": 542,
+    "timeDay": 461,
+    "timeWeek": 538,
+    "timeMonth": 559,
+    "timeYear": 542,
     "dailyMinutesDown": {
       "2023-06-10": 107
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.71%",
     "uptimeYear": "99.86%",
-    "time": 370,
-    "timeDay": 366,
-    "timeWeek": 360,
-    "timeMonth": 354,
-    "timeYear": 370,
+    "time": 368,
+    "timeDay": 240,
+    "timeWeek": 384,
+    "timeMonth": 355,
+    "timeYear": 368,
     "dailyMinutesDown": {
       "2023-06-10": 127
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.76%",
     "uptimeYear": "99.88%",
-    "time": 581,
-    "timeDay": 448,
-    "timeWeek": 581,
-    "timeMonth": 608,
-    "timeYear": 581,
+    "time": 580,
+    "timeDay": 464,
+    "timeWeek": 582,
+    "timeMonth": 611,
+    "timeYear": 580,
     "dailyMinutesDown": {
       "2023-06-10": 107
     }
@@ -70,11 +70,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.76%",
     "uptimeYear": "99.88%",
-    "time": 558,
-    "timeDay": 611,
-    "timeWeek": 560,
+    "time": 557,
+    "timeDay": 447,
+    "timeWeek": 575,
     "timeMonth": 580,
-    "timeYear": 558,
+    "timeYear": 557,
     "dailyMinutesDown": {
       "2023-06-10": 107
     }
@@ -90,11 +90,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.76%",
     "uptimeYear": "99.83%",
-    "time": 579,
-    "timeDay": 479,
-    "timeWeek": 494,
+    "time": 577,
+    "timeDay": 462,
+    "timeWeek": 499,
     "timeMonth": 593,
-    "timeYear": 579,
+    "timeYear": 577,
     "dailyMinutesDown": {
       "2023-06-10": 107
     }
@@ -105,16 +105,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.ransomware.live.ico",
     "slug": "ransomware-live-api",
     "status": "up",
-    "uptime": "99.58%",
+    "uptime": "99.59%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.76%",
-    "uptimeYear": "99.58%",
-    "time": 1007,
-    "timeDay": 787,
-    "timeWeek": 955,
-    "timeMonth": 1021,
-    "timeYear": 1007,
+    "uptimeYear": "99.59%",
+    "time": 1003,
+    "timeDay": 823,
+    "timeWeek": 978,
+    "timeMonth": 1026,
+    "timeYear": 1003,
     "dailyMinutesDown": {
       "2023-06-10": 107,
       "2023-06-03": 110
@@ -131,11 +131,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.84%",
     "uptimeYear": "99.92%",
-    "time": 1298,
-    "timeDay": 1222,
-    "timeWeek": 1262,
-    "timeMonth": 1330,
-    "timeYear": 1298,
+    "time": 1297,
+    "timeDay": 1241,
+    "timeWeek": 1278,
+    "timeMonth": 1341,
+    "timeYear": 1297,
     "dailyMinutesDown": {
       "2023-06-14": 70
     }
@@ -146,16 +146,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/cyber-news.fr.ico",
     "slug": "cyber-news",
     "status": "up",
-    "uptime": "91.21%",
-    "uptimeDay": "58.65%",
+    "uptime": "91.35%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "85.96%",
     "uptimeMonth": "84.19%",
-    "uptimeYear": "91.21%",
-    "time": 846,
-    "timeDay": 916,
-    "timeWeek": 822,
+    "uptimeYear": "91.35%",
+    "time": 844,
+    "timeDay": 732,
+    "timeWeek": 834,
     "timeMonth": 821,
-    "timeYear": 846,
+    "timeYear": 844,
     "dailyMinutesDown": {
       "2023-07-08": 663,
       "2023-07-07": 753,
