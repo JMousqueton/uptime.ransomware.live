@@ -6,20 +6,36 @@ user-agent: uptime.ransomware.live
 sites:
   - name: ransomware.live - Main site
     url: https://www.ransomware.live
+    assignees:
+      - jmousqueton
   - name: ransomware.live - Posts
     url: https://posts.ransomware.live
+    assignees:
+      - jmousqueton
   - name: ransomware.live - Data
     url: https://data.ransomware.live
+    assignees:
+      - jmousqueton
   - name: ransomware.live - Images
     url: https://images.ransomware.live
+    assignees:
+      - jmousqueton
   - name: ransomware.live - Chat
     url: https://chat.ransomware.live
+    assignees:
+      - jmousqueton
   - name: ransomware.live - API
     url: https://api.ransomware.live
+    assignees:
+      - jmousqueton
   - name : Blog Julien Mousqueton
     url: https://julien.io
+    assignees:
+      - jmousqueton
   - name : Cyber-News
     url: https://cyber-news.fr
+    assignees:
+    - jmousqueton
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
