@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
-    "time": 568,
-    "timeDay": 557,
-    "timeWeek": 698,
-    "timeMonth": 615,
-    "timeYear": 568,
+    "time": 569,
+    "timeDay": 635,
+    "timeWeek": 677,
+    "timeMonth": 624,
+    "timeYear": 569,
     "dailyMinutesDown": {
       "2023-06-10": 107
     }
@@ -25,16 +25,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/posts.ransomware.live.ico",
     "slug": "ransomware-live-posts",
     "status": "up",
-    "uptime": "99.88%",
+    "uptime": "99.89%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.88%",
-    "time": 376,
-    "timeDay": 178,
-    "timeWeek": 400,
-    "timeMonth": 387,
-    "timeYear": 376,
+    "uptimeYear": "99.89%",
+    "time": 375,
+    "timeDay": 310,
+    "timeWeek": 373,
+    "timeMonth": 391,
+    "timeYear": 375,
     "dailyMinutesDown": {
       "2023-06-10": 127
     }
@@ -51,9 +51,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
     "time": 597,
-    "timeDay": 338,
-    "timeWeek": 628,
-    "timeMonth": 623,
+    "timeDay": 634,
+    "timeWeek": 609,
+    "timeMonth": 629,
     "timeYear": 597,
     "dailyMinutesDown": {
       "2023-06-10": 107
@@ -70,11 +70,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
-    "time": 573,
-    "timeDay": 422,
-    "timeWeek": 593,
-    "timeMonth": 603,
-    "timeYear": 573,
+    "time": 574,
+    "timeDay": 610,
+    "timeWeek": 592,
+    "timeMonth": 608,
+    "timeYear": 574,
     "dailyMinutesDown": {
       "2023-06-10": 107
     }
@@ -90,11 +90,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.87%",
-    "time": 597,
-    "timeDay": 414,
-    "timeWeek": 654,
-    "timeMonth": 597,
-    "timeYear": 597,
+    "time": 595,
+    "timeDay": 489,
+    "timeWeek": 599,
+    "timeMonth": 601,
+    "timeYear": 595,
     "dailyMinutesDown": {
       "2023-06-10": 107
     }
@@ -105,16 +105,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.ransomware.live.ico",
     "slug": "ransomware-live-api",
     "status": "up",
-    "uptime": "99.52%",
+    "uptime": "99.53%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.72%",
-    "uptimeYear": "99.52%",
-    "time": 964,
-    "timeDay": 625,
-    "timeWeek": 939,
-    "timeMonth": 917,
-    "timeYear": 964,
+    "uptimeYear": "99.53%",
+    "time": 963,
+    "timeDay": 870,
+    "timeWeek": 913,
+    "timeMonth": 920,
+    "timeYear": 963,
     "dailyMinutesDown": {
       "2023-07-10": 124,
       "2023-06-10": 107,
@@ -132,11 +132,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
-    "time": 1314,
-    "timeDay": 1030,
-    "timeWeek": 1375,
-    "timeMonth": 1347,
-    "timeYear": 1314,
+    "time": 1313,
+    "timeDay": 1232,
+    "timeWeek": 1324,
+    "timeMonth": 1355,
+    "timeYear": 1313,
     "dailyMinutesDown": {
       "2023-06-14": 70
     }
@@ -152,11 +152,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 854,
-    "timeDay": 699,
-    "timeWeek": 922,
-    "timeMonth": 865,
-    "timeYear": 854,
+    "time": 855,
+    "timeDay": 979,
+    "timeWeek": 896,
+    "timeMonth": 882,
+    "timeYear": 855,
     "dailyMinutesDown": {}
   }
 ]
