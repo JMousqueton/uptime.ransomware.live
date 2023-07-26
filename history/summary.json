@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
-    "time": 570,
-    "timeDay": 643,
-    "timeWeek": 681,
-    "timeMonth": 636,
-    "timeYear": 570,
+    "time": 569,
+    "timeDay": 526,
+    "timeWeek": 638,
+    "timeMonth": 635,
+    "timeYear": 569,
     "dailyMinutesDown": {
       "2023-06-10": 107
     }
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
     "time": 375,
-    "timeDay": 358,
-    "timeWeek": 383,
-    "timeMonth": 400,
+    "timeDay": 398,
+    "timeWeek": 323,
+    "timeMonth": 406,
     "timeYear": 375,
     "dailyMinutesDown": {
       "2023-06-10": 127
@@ -51,9 +51,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
     "time": 598,
-    "timeDay": 646,
-    "timeWeek": 610,
-    "timeMonth": 636,
+    "timeDay": 636,
+    "timeWeek": 587,
+    "timeMonth": 642,
     "timeYear": 598,
     "dailyMinutesDown": {
       "2023-06-10": 107
@@ -70,11 +70,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
-    "time": 574,
-    "timeDay": 632,
-    "timeWeek": 593,
-    "timeMonth": 612,
-    "timeYear": 574,
+    "time": 573,
+    "timeDay": 447,
+    "timeWeek": 580,
+    "timeMonth": 615,
+    "timeYear": 573,
     "dailyMinutesDown": {
       "2023-06-10": 107
     }
@@ -85,16 +85,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/chat.ransomware.live.ico",
     "slug": "ransomware-live-chat",
     "status": "up",
-    "uptime": "99.87%",
+    "uptime": "99.88%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.87%",
-    "time": 596,
-    "timeDay": 630,
-    "timeWeek": 598,
-    "timeMonth": 603,
-    "timeYear": 596,
+    "uptimeYear": "99.88%",
+    "time": 593,
+    "timeDay": 454,
+    "timeWeek": 533,
+    "timeMonth": 604,
+    "timeYear": 593,
     "dailyMinutesDown": {
       "2023-06-10": 107
     }
@@ -105,16 +105,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.ransomware.live.ico",
     "slug": "ransomware-live-api",
     "status": "up",
-    "uptime": "99.54%",
+    "uptime": "99.55%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.72%",
-    "uptimeYear": "99.54%",
-    "time": 961,
-    "timeDay": 875,
-    "timeWeek": 893,
-    "timeMonth": 926,
-    "timeYear": 961,
+    "uptimeYear": "99.55%",
+    "time": 956,
+    "timeDay": 641,
+    "timeWeek": 802,
+    "timeMonth": 922,
+    "timeYear": 956,
     "dailyMinutesDown": {
       "2023-07-10": 124,
       "2023-06-10": 107,
@@ -132,11 +132,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
-    "time": 1314,
-    "timeDay": 1434,
-    "timeWeek": 1339,
-    "timeMonth": 1368,
-    "timeYear": 1314,
+    "time": 1313,
+    "timeDay": 1198,
+    "timeWeek": 1288,
+    "timeMonth": 1370,
+    "timeYear": 1313,
     "dailyMinutesDown": {
       "2023-06-14": 70
     }
@@ -152,11 +152,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 856,
-    "timeDay": 910,
-    "timeWeek": 912,
+    "time": 855,
+    "timeDay": 748,
+    "timeWeek": 858,
     "timeMonth": 879,
-    "timeYear": 856,
+    "timeYear": 855,
     "dailyMinutesDown": {}
   }
 ]
