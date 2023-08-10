@@ -42,7 +42,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: uptime.ransomware.live
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/JMousqueton/uptime.ransomware.live/master/static/img/icon.svg
+  logoUrl: https://raw.githubusercontent.com/JMousqueton/ransomware.live/main/.github/ransomware.live.png
   name: Uptime Ransomware.live
   theme: light
   introTitle: "**Uptime**.ransomware.live monitor ransomware.live websites uptime"
