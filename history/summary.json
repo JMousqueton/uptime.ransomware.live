@@ -4,9 +4,9 @@
     "url": "https://www.ransomware.live",
     "icon": "https://icons.duckduckgo.com/ip3/www.ransomware.live.ico",
     "slug": "ransomware-live-main-site",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
@@ -16,6 +16,7 @@
     "timeMonth": 648,
     "timeYear": 589,
     "dailyMinutesDown": {
+      "2023-08-20": 0,
       "2023-06-10": 107
     }
   },
@@ -44,9 +45,9 @@
     "url": "https://data.ransomware.live",
     "icon": "https://icons.duckduckgo.com/ip3/data.ransomware.live.ico",
     "slug": "ransomware-live-data",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
@@ -56,6 +57,7 @@
     "timeMonth": 631,
     "timeYear": 609,
     "dailyMinutesDown": {
+      "2023-08-20": 0,
       "2023-06-10": 107
     }
   },
@@ -64,9 +66,9 @@
     "url": "https://images.ransomware.live",
     "icon": "https://icons.duckduckgo.com/ip3/images.ransomware.live.ico",
     "slug": "ransomware-live-images",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
@@ -76,6 +78,7 @@
     "timeMonth": 620,
     "timeYear": 587,
     "dailyMinutesDown": {
+      "2023-08-20": 0,
       "2023-06-10": 107
     }
   },
@@ -104,18 +107,19 @@
     "url": "https://api.ransomware.live",
     "icon": "https://icons.duckduckgo.com/ip3/api.ransomware.live.ico",
     "slug": "ransomware-live-api",
-    "status": "up",
-    "uptime": "99.69%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "99.70%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.69%",
-    "time": 924,
-    "timeDay": 939,
-    "timeWeek": 769,
-    "timeMonth": 843,
-    "timeYear": 924,
+    "uptimeYear": "99.70%",
+    "time": 919,
+    "timeDay": 702,
+    "timeWeek": 731,
+    "timeMonth": 833,
+    "timeYear": 919,
     "dailyMinutesDown": {
+      "2023-08-20": 0,
       "2023-07-10": 124,
       "2023-06-10": 107,
       "2023-06-03": 110
