@@ -20,8 +20,8 @@ sites:
     url: https://images.ransomware.live
     assignees:
       - jmousqueton
-  - name: ransomware.live - Chat
-    url: https://chat.ransomware.live
+  - name: ransomware.live - Static
+    url: https://static.ransomware.live
     assignees:
       - jmousqueton
   - name: ransomware.live - API
