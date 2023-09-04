@@ -148,19 +148,19 @@
     "url": "https://cyber-news.fr",
     "icon": "https://icons.duckduckgo.com/ip3/cyber-news.fr.ico",
     "slug": "cyber-news",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 878,
-    "timeDay": 952,
-    "timeWeek": 921,
-    "timeMonth": 921,
-    "timeYear": 878,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.83%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.99%",
+    "time": 877,
+    "timeDay": 849,
+    "timeWeek": 899,
+    "timeMonth": 917,
+    "timeYear": 877,
     "dailyMinutesDown": {
-      "2023-09-04": 0
+      "2023-09-04": 17
     }
   }
 ]
