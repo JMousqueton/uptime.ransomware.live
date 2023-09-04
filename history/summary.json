@@ -148,9 +148,9 @@
     "url": "https://cyber-news.fr",
     "icon": "https://icons.duckduckgo.com/ip3/cyber-news.fr.ico",
     "slug": "cyber-news",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -159,6 +159,8 @@
     "timeWeek": 921,
     "timeMonth": 921,
     "timeYear": 878,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-09-04": 0
+    }
   }
 ]
