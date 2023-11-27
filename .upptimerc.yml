@@ -32,10 +32,6 @@ sites:
     url: https://julien.io
     assignees:
       - jmousqueton
-  - name : Cyber-News
-    url: https://cyber-news.fr
-    assignees:
-    - jmousqueton
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
