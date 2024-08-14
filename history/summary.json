@@ -31,9 +31,9 @@
     "url": "https://posts.ransomware.live",
     "icon": "https://icons.duckduckgo.com/ip3/posts.ransomware.live.ico",
     "slug": "ransomware-live-posts",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -43,6 +43,7 @@
     "timeMonth": 442,
     "timeYear": 392,
     "dailyMinutesDown": {
+      "2024-08-14": 0,
       "2023-11-29": 24
     }
   },
