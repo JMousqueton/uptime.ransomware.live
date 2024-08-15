@@ -8,10 +8,6 @@ sites:
     url: https://www.ransomware.live
     assignees:
       - jmousqueton
-  - name: ransomware.live - Posts
-    url: https://posts.ransomware.live
-    assignees:
-      - jmousqueton
   - name: ransomware.live - Data
     url: https://data.ransomware.live
     assignees:
@@ -26,10 +22,6 @@ sites:
       - jmousqueton
   - name: ransomware.live - API
     url: https://api.ransomware.live
-    assignees:
-      - jmousqueton
-  - name : Blog Julien Mousqueton
-    url: https://julien.io
     assignees:
       - jmousqueton
 
