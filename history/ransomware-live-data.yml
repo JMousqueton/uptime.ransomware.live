@@ -1,7 +1,7 @@
 url: https://data.ransomware.live
-status: up
-code: 200
-responseTime: 1118
-lastUpdated: 2024-10-24T23:09:54.762Z
+status: down
+code: 502
+responseTime: 707
+lastUpdated: 2024-10-25T09:07:27.158Z
 startTime: 2023-05-07T20:27:30.000Z
 generator: Upptime <https://github.com/upptime/upptime>
