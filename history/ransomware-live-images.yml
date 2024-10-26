@@ -1,7 +1,7 @@
 url: https://images.ransomware.live
-status: up
-code: 200
-responseTime: 683
-lastUpdated: 2024-10-25T23:10:35.082Z
+status: down
+code: 502
+responseTime: 2519
+lastUpdated: 2024-10-26T14:51:26.908Z
 startTime: 2023-05-07T20:27:30.000Z
 generator: Upptime <https://github.com/upptime/upptime>
