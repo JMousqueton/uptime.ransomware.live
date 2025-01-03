@@ -1,7 +1,7 @@
 url: https://static.ransomware.live
-status: up
-code: 200
-responseTime: 643
-lastUpdated: 2025-01-02T23:09:34.496Z
+status: down
+code: 502
+responseTime: 802
+lastUpdated: 2025-01-03T18:55:48.316Z
 startTime: 2023-08-26T21:05:52.839Z
 generator: Upptime <https://github.com/upptime/upptime>
