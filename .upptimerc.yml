@@ -16,10 +16,6 @@ sites:
     url: https://images.ransomware.live
     assignees:
       - jmousqueton
-  - name: ransomware.live - Static
-    url: https://static.ransomware.live
-    assignees:
-      - jmousqueton
   - name: ransomware.live - API
     url: https://api.ransomware.live
     assignees:
