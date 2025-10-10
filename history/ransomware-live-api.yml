@@ -1,7 +1,7 @@
 url: https://api.ransomware.live
-status: up
-code: 200
-responseTime: 1398
-lastUpdated: 2025-10-10T10:13:03.330Z
+status: down
+code: 502
+responseTime: 705
+lastUpdated: 2025-10-10T20:26:13.001Z
 startTime: 2023-06-03T13:18:27.000Z
 generator: Upptime <https://github.com/upptime/upptime>
