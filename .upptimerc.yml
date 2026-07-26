@@ -17,13 +17,15 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://images.ransomware.live/ransomwarelive.svg
   name: Ransomware.live Status
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: "**Ransomware.live** status page"
+  introMessage: This page is powered entirely by GitHub. Code: [GitHub repository](https://github.com/upptime/upptime). No server required. 
   navbar:
     - title: Status
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+    - title: Ransomware.live
+      href: https://www.ransomware.live
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
