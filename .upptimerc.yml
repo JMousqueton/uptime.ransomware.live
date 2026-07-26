@@ -9,8 +9,6 @@ sites:
     url: https://api-pro.ransomware.live/docs
   - name: Ransomware.live (map)
     url: https://map.ransomware.live
-  - name: Ransomware.live (admin)
-    url: $https://nimda.ransomware.live 
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
