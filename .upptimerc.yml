@@ -19,7 +19,7 @@ status-website:
   logoUrl: https://images.ransomware.live/ransomwarelive.svg
   name: Ransomware.live Status
   introTitle: "**Ransomware.live** status page"
-  introMessage: "This page is powered entirely by GitHub. Code: [GitHub repository](https://github.com/upptime/upptime). No server required."
+  introMessage: "This page is powered entirely by GitHub."
   navbar:
     - title: Status
       href: /
