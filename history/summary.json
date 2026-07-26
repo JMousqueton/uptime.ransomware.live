@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1078,
-    "timeDay": 1078,
-    "timeWeek": 1078,
-    "timeMonth": 1078,
-    "timeYear": 1078,
+    "time": 1121,
+    "timeDay": 1121,
+    "timeWeek": 1121,
+    "timeMonth": 1121,
+    "timeYear": 1121,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 480,
-    "timeDay": 480,
-    "timeWeek": 480,
-    "timeMonth": 480,
-    "timeYear": 480,
+    "time": 438,
+    "timeDay": 438,
+    "timeWeek": 438,
+    "timeMonth": 438,
+    "timeYear": 438,
     "dailyMinutesDown": {}
   },
   {
@@ -46,31 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 578,
-    "timeDay": 578,
-    "timeWeek": 578,
-    "timeMonth": 578,
-    "timeYear": 578,
+    "time": 518,
+    "timeDay": 518,
+    "timeWeek": 518,
+    "timeMonth": 518,
+    "timeYear": 518,
     "dailyMinutesDown": {}
-  },
-  {
-    "name": "Ransomware.live (admin)",
-    "url": "$https://nimda.ransomware.live",
-    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
-    "slug": "ransomware-live-admin",
-    "status": "down",
-    "uptime": "64.27%",
-    "uptimeDay": "64.27%",
-    "uptimeWeek": "64.27%",
-    "uptimeMonth": "64.27%",
-    "uptimeYear": "64.27%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
-    "dailyMinutesDown": {
-      "2026-07-26": 0
-    }
   }
 ]
