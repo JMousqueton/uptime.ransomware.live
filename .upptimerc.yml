@@ -6,7 +6,7 @@ sites:
   - name: Ransomware.live (site)
     url: https://www.ransomware.live
   - name: Ransomware.live (API-Pro)
-    url: https://api-pro.ransomware.live/docs
+    url: https://api-pro.ransomware.live/health
   - name: Ransomware.live (map)
     url: https://map.ransomware.live
 
@@ -18,7 +18,7 @@ status-website:
   logoUrl: https://images.ransomware.live/ransomwarelive.svg
   name: Ransomware.live Status
   introTitle: "**Ransomware.live** status page"
-  introMessage: This page is powered entirely by GitHub. Code: [GitHub repository](https://github.com/upptime/upptime). No server required. 
+  introMessage: "This page is powered entirely by GitHub. Code: [GitHub repository](https://github.com/upptime/upptime). No server required."
   navbar:
     - title: Status
       href: /
