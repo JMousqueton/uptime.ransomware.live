@@ -7,6 +7,8 @@ sites:
     url: https://www.ransomware.live
   - name: Ransomware.live (API-Pro)
     url: https://api-pro.ransomware.live/health
+  - name: Ransomware.live (API)
+    url: https://api.ransomware.live
   - name: Ransomware.live (map)
     url: https://map.ransomware.live
 
