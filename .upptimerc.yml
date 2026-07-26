@@ -13,6 +13,7 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
+  themeUrl: https://www.ransomware.live/static/style.css
   cname: uptime.ransomware.live
   # baseUrl: /your-repo-name
   logoUrl: https://images.ransomware.live/ransomwarelive.svg
@@ -22,8 +23,6 @@ status-website:
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
     - title: Ransomware.live
       href: https://www.ransomware.live
 
