@@ -40,9 +40,9 @@
     "url": "https://api.ransomware.live",
     "icon": "https://icons.duckduckgo.com/ip3/api.ransomware.live.ico",
     "slug": "ransomware-live-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,14 +51,16 @@
     "timeWeek": 2082,
     "timeMonth": 1981,
     "timeYear": 2214,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-09-13": 0
+    }
   },
   {
     "name": "Ransomware.live (map)",
     "url": "https://map.ransomware.live",
     "icon": "https://icons.duckduckgo.com/ip3/map.ransomware.live.ico",
     "slug": "ransomware-live-map",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
