@@ -40,19 +40,19 @@
     "url": "https://api.ransomware.live",
     "icon": "https://icons.duckduckgo.com/ip3/api.ransomware.live.ico",
     "slug": "ransomware-live-api",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2214,
-    "timeDay": 1905,
-    "timeWeek": 2082,
-    "timeMonth": 1981,
-    "timeYear": 2214,
+    "status": "up",
+    "uptime": "99.58%",
+    "uptimeDay": "79.67%",
+    "uptimeWeek": "97.10%",
+    "uptimeMonth": "99.33%",
+    "uptimeYear": "99.58%",
+    "time": 2212,
+    "timeDay": 2000,
+    "timeWeek": 2083,
+    "timeMonth": 1984,
+    "timeYear": 2212,
     "dailyMinutesDown": {
-      "2026-09-13": 0
+      "2026-09-13": 293
     }
   },
   {
@@ -60,17 +60,19 @@
     "url": "https://map.ransomware.live",
     "icon": "https://icons.duckduckgo.com/ip3/map.ransomware.live.ico",
     "slug": "ransomware-live-map",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.58%",
+    "uptimeDay": "79.69%",
+    "uptimeWeek": "97.10%",
+    "uptimeMonth": "99.33%",
+    "uptimeYear": "99.58%",
     "time": 630,
-    "timeDay": 732,
-    "timeWeek": 589,
+    "timeDay": 673,
+    "timeWeek": 592,
     "timeMonth": 633,
     "timeYear": 630,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-09-13": 293
+    }
   }
 ]
